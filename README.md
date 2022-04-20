@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phvlpb11
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently an undergrad at IIITV
-- 💞️ I’m looking to collaborate on web dev, information retrieval stuff and maybe some cloud computing too 
+- 💞️ I’m looking to collaborate on web dev stuff
 - 📫 How to reach me : bhati.lakshya11@gmail.com
 
 <!---
